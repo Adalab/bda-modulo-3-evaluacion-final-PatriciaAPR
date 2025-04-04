@@ -18,4 +18,4 @@
 
 
 ## DF final
--En la exploración anterior los nulos estaban en salary, cancelation year y cancelatio month. Decido dejar la columna de salario sustituyendo los nulos por la media
+-En la exploración anterior los nulos estaban en salary, cancelation year y cancelatio month. Decido dejar la columna de salario sustituyendo los nulos por la mediana y para las 2 columnas debido a que están relacionadas he creado una columna nueva en donde coloco su relación y la utilizo para contestar a las preguntas
